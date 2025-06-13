@@ -30,7 +30,7 @@ Despite its many benefits, data compression has some trade-offs. Compressing and
 In conclusion, a data compression tool is an essential component of modern digital technology. It enables efficient use of storage and network resources, facilitates faster data transfer, and enhances the overall user experience. With growing data consumption across all sectors, the importance and sophistication of data compression tools continue to evolve, making them indispensable in today's information-driven world.
 
 ##OUTPUT :
-
+![Image](https://github.com/user-attachments/assets/3ed27639-6a57-4742-901d-fa6e4e957fb8)
 
 
 
